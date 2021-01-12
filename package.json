@@ -3,6 +3,7 @@
     "displayName": "Rubber Theme",
     "version": "0.1.0",
     "publisher": "apust",
+    "license": "MIT",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.24.0"
